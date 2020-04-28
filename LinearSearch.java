@@ -35,3 +35,12 @@ public class LinearSearch {
         
     }
 }
+
+/*
+output
+run:
+k is in the index of : 5
+BUILD SUCCESSFUL (total time: 0 seconds)
+
+
+*/
